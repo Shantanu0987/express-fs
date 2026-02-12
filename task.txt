@@ -1,0 +1,7 @@
+Same routes.
+Notice:
+⦁	Cleaner routing
+⦁	Middleware
+⦁	Less boilerplate
+Goal:
+See why Express is better.
